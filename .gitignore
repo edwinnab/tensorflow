@@ -1,0 +1,5 @@
+/models/
+/.ipynb_checkpoints/
+/tensorflow_dev/
+/MNIST_data/
+/test_img.png/
